@@ -1,4 +1,4 @@
-DriveAssit is a project for evaluating driver drowsiness and distracted and impaired driving on the road during my PhD. 
+DriverAssit is a project for evaluating driver drowsiness and distracted and impaired driving on the road during my PhD. 
 
 It's a two-monocular-cameras-based system consisting of Lane detection and tracking system, Face detection and tracking system, and Fusion center based on evidence theory. 
 
@@ -10,4 +10,4 @@ The project is developed for the object of scientific research. If interested, p
 The project is in progress. Our aim is to provide a comprehensive evaluation system of vehicle safety in 2015.   
 
 License
-DriveAssist is under GPL2 license and using OpenCV under a BSD license. It is only for a non-commercial purpose or private study. 
+DriverAssist is under GPL2 license and using OpenCV under a BSD license. It is only for a non-commercial purpose or private study. 
